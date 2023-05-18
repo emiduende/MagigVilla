@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "p3Y98E7/ZXXpuzNAEKFSpfgsK7S4fY+MVEZei/HGAKtQ0ciR6QN0uDS1S7z7ScLHqNYr8t+iPqzgFuloOAhjbw==",
+  "success": true,
+  "projectFilePath": "D:\\Backup\\epineros\\My Documents\\Visual Studio 2022\\source\\repos\\MagicVilla\\MagicVilla_API\\MagicVilla_API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\epineros\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
+    "C:\\Users\\epineros\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\epineros\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\epineros\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\epineros\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\epineros\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\epineros\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
